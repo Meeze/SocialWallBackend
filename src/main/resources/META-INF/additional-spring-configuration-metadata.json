@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "accesstoken.facebook",
+      "type": "java.lang.String",
+      "description": "Description for accesstoken.facebook."
+  }
+] }
